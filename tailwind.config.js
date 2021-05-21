@@ -9,6 +9,9 @@ module.exports = {
         'light-blue': colors.lightBlue,
         cyan: colors.cyan,
       },
+      width: {
+        'wide': '95vw',
+      },
     },
   },
   variants: {

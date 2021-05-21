@@ -19,11 +19,11 @@ class SelectMenu extends React.Component {
 
         return (
             <div>
-                <label className="block text-3xl lg:text-sm font-medium text-gray-700 my-2">Poziom</label>
+                <label className="block text-3xl sm:text-sm font-medium text-gray-700 sm:my-2 my-4">Poziom</label>
                 <select id="level-selector"
                     onChange={this.handleChange}
                     value={value}
-                    className="relative w-full bg-white border border-gray-300 rounded-md shadow-sm px-3  py-2 text-left focus:outline-none focus:ring-1 text-2xl lg:text-sm"
+                    className="relative w-full bg-white border border-gray-300 rounded-md shadow-sm px-3  py-2 text-left focus:outline-none focus:ring-1 text-2xl sm:text-sm"
                     name="level">
                     {this.levelList.map(item => {
                         return (
