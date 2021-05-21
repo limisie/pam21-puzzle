@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/pam21-puzzle/static/css/main.1d46f8e5.chunk.css",
-    "main.js": "/pam21-puzzle/static/js/main.a9a576be.chunk.js",
-    "main.js.map": "/pam21-puzzle/static/js/main.a9a576be.chunk.js.map",
+    "main.css": "/pam21-puzzle/static/css/main.1526c74e.chunk.css",
+    "main.js": "/pam21-puzzle/static/js/main.0ce511d7.chunk.js",
+    "main.js.map": "/pam21-puzzle/static/js/main.0ce511d7.chunk.js.map",
     "runtime-main.js": "/pam21-puzzle/static/js/runtime-main.d1d88b61.js",
     "runtime-main.js.map": "/pam21-puzzle/static/js/runtime-main.d1d88b61.js.map",
     "static/css/2.39bed62a.chunk.css": "/pam21-puzzle/static/css/2.39bed62a.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.ac2e360f.chunk.js.map": "/pam21-puzzle/static/js/2.ac2e360f.chunk.js.map",
     "index.html": "/pam21-puzzle/index.html",
     "static/css/2.39bed62a.chunk.css.map": "/pam21-puzzle/static/css/2.39bed62a.chunk.css.map",
-    "static/css/main.1d46f8e5.chunk.css.map": "/pam21-puzzle/static/css/main.1d46f8e5.chunk.css.map",
+    "static/css/main.1526c74e.chunk.css.map": "/pam21-puzzle/static/css/main.1526c74e.chunk.css.map",
     "static/js/2.ac2e360f.chunk.js.LICENSE.txt": "/pam21-puzzle/static/js/2.ac2e360f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d1d88b61.js",
     "static/css/2.39bed62a.chunk.css",
     "static/js/2.ac2e360f.chunk.js",
-    "static/css/main.1d46f8e5.chunk.css",
-    "static/js/main.a9a576be.chunk.js"
+    "static/css/main.1526c74e.chunk.css",
+    "static/js/main.0ce511d7.chunk.js"
   ]
 }
